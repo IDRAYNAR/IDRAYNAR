@@ -51,7 +51,7 @@
 <!-- ----------------------------------------------------- -->
 
 <h2 align="center">🛠️ My favorite tools 🛠️</h2>
-
+<br>
 ### 👨‍💻 Programming languages
 
 <p>
