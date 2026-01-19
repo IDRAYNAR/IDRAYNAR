@@ -1,4 +1,4 @@
-> 🇬🇧 **English version available here:** [english.md](english.md)
+> ⚠️ **English version available here:** [english.md](english.md) ⚠️
 
 # 👋 Rayan Idri
 
