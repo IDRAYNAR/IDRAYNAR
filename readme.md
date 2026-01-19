@@ -1,3 +1,5 @@
+> 🇬🇧 **English version available here:** [english.md](english.md)
+
 # 👋 Rayan Idri
 
 Développeur **Full Stack & Ops** spécialisé en **JavaScript**, **React** et **Next.js**.  
